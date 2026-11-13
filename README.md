@@ -1,6 +1,6 @@
 # SmartTap
 
-SmartTap turns plain-English questions about Oregon agricultural and weather data into charts, summaries, and inspectable evidence.
+SmartTap turns plain-English questions about agricultur and weather data into charts, summaries, and inspectable evidence.
 
 The retained product surface is one shared pipeline used by the Streamlit UI and CLI:
 
